@@ -1,0 +1,16 @@
+.flex {
+  display: flex;
+}
+.perspective-500 {
+  perspective: 500px;
+}
+.w-24, .h-24 {
+  width: 24px;
+  height: 24px;
+}
+.border-2 {
+  border-width: 2px;
+}
+.bg-opacity-50 {
+  opacity: 0.5;
+}
